@@ -1,3 +1,5 @@
+[![An image of @rounakshrivastav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rounakshrivastav)](https://holopin.io/@rounakshrivastav)
+
 [![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Rounak Shrivatsav</h1>
 <h3 align="center">A passionate learner from India, competitive programmer and MERN stack developer ,also wants to explore data science field</h3>
